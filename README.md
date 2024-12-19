@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm a technical writer with 9 years of experience. I am skilled in developing and optimizing processes, resolving any difficulties, and ensuring a streamlined and efficient workflow. I know how to build collaboration between technical writers, developers, support engineers, and product managers; how to simplify complex ideas and ensure clear communication between technology and its users; and how to handle customer expectations and assist them to success with our products.
+I'm a technical writer with 10 years of experience. I am skilled in developing and optimizing processes, resolving any difficulties, and ensuring a streamlined and efficient workflow. I know how to build collaboration between technical writers, developers, support engineers, and product managers; how to simplify complex ideas and ensure clear communication between technology and its users; and how to handle customer expectations and assist them to success with our products.
 
 ### 🛠 Skills
 
